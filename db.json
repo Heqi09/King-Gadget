@@ -136,12 +136,12 @@
       "images": [
         {
           "id": 1,
-          "image_url": "/src/assets/samsungs25.jpg",
+          "image_url": "img/samsungs25.jpg",
           "is_primary": true
         },
         {
           "id": 2,
-          "image_url": "/src/assets/samsungs25black.webp",
+          "image_url": "img/samsungs25black.webp",
           "is_primary": false
         }
       ],
@@ -193,7 +193,7 @@
       "images": [
         {
           "id": 3,
-          "image_url": "/src/assets/samsunga56.jpg",
+          "image_url": "img/samsunga56.jpg",
           "is_primary": true
         }
       ],
@@ -245,7 +245,7 @@
       "images": [
         {
           "id": 4,
-          "image_url": "/src/assets/samsunga16.webp",
+          "image_url": "img/samsunga16.webp",
           "is_primary": true
         }
       ],
@@ -297,7 +297,7 @@
       "images": [
         {
           "id": 5,
-          "image_url": "/src/assets/tabs10.webp",
+          "image_url": "img/tabs10.webp",
           "is_primary": true
         }
       ],
@@ -349,7 +349,7 @@
       "images": [
         {
           "id": 6,
-          "image_url": "/src/assets/ip16promax.jpg",
+          "image_url": "img/ip16promax.jpg",
           "is_primary": true
         }
       ],
@@ -401,7 +401,7 @@
       "images": [
         {
           "id": 7,
-          "image_url": "/src/assets/ip16e.jpg",
+          "image_url": "img/ip16e.jpg",
           "is_primary": true
         }
       ],
@@ -453,7 +453,7 @@
       "images": [
         {
           "id": 8,
-          "image_url": "/src/assets/ipse4.jpg",
+          "image_url": "img/ipse4.jpg",
           "is_primary": true
         }
       ],
@@ -505,7 +505,7 @@
       "images": [
         {
           "id": 9,
-          "image_url": "/src/assets/ipadair6.jpg",
+          "image_url": "img/ipadair6.jpg",
           "is_primary": true
         }
       ],
@@ -557,7 +557,7 @@
       "images": [
         {
           "id": 10,
-          "image_url": "/src/assets/mi15ultra.jpg",
+          "image_url": "img/mi15ultra.jpg",
           "is_primary": true
         }
       ],
@@ -609,7 +609,7 @@
       "images": [
         {
           "id": 11,
-          "image_url": "/src/assets/redminote14pro.jpg",
+          "image_url": "img/redminote14pro.jpg",
           "is_primary": true
         }
       ],
@@ -661,7 +661,7 @@
       "images": [
         {
           "id": 12,
-          "image_url": "/src/assets/redmi14c.webp",
+          "image_url": "img/redmi14c.webp",
           "is_primary": true
         }
       ],
@@ -713,7 +713,7 @@
       "images": [
         {
           "id": 13,
-          "image_url": "/src/assets/mipad7.png",
+          "image_url": "img/mipad7.png",
           "is_primary": true
         }
       ],
@@ -765,7 +765,7 @@
       "images": [
         {
           "id": 14,
-          "image_url": "/src/assets/oppofindx8pro.png",
+          "image_url": "img/oppofindx8pro.png",
           "is_primary": true
         }
       ],
@@ -817,7 +817,7 @@
       "images": [
         {
           "id": 15,
-          "image_url": "/src/assets/opporeno13pro.jpg",
+          "image_url": "img/opporeno13pro.jpg",
           "is_primary": true
         }
       ],
@@ -869,7 +869,7 @@
       "images": [
         {
           "id": 16,
-          "image_url": "/src/assets/oppoa80.webp",
+          "image_url": "img/oppoa80.webp",
           "is_primary": true
         }
       ],
@@ -921,7 +921,7 @@
       "images": [
         {
           "id": 17,
-          "image_url": "/src/assets/oppopadneo.jpg",
+          "image_url": "img/oppopadneo.jpg",
           "is_primary": true
         }
       ],
@@ -973,7 +973,7 @@
       "images": [
         {
           "id": 18,
-          "image_url": "/src/assets/vivox200pro.jpg",
+          "image_url": "img/vivox200pro.jpg",
           "is_primary": true
         }
       ],
@@ -1025,7 +1025,7 @@
       "images": [
         {
           "id": 19,
-          "image_url": "/src/assets/vivov40pro.webp",
+          "image_url": "img/vivov40pro.webp",
           "is_primary": true
         }
       ],
@@ -1077,7 +1077,7 @@
       "images": [
         {
           "id": 20,
-          "image_url": "/src/assets/vivoy28.webp",
+          "image_url": "img/vivoy28.webp",
           "is_primary": true
         }
       ],
@@ -1129,7 +1129,7 @@
       "images": [
         {
           "id": 21,
-          "image_url": "/src/assets/vivopad3.jpg",
+          "image_url": "img/vivopad3.jpg",
           "is_primary": true
         }
       ],
