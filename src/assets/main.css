@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap');
+
+:root {
+  --ink: #12151c;
+  --paper: #f4f5f7;
+  --surface: #ffffff;
+  --indigo: #4a4fe0;
+  --indigo-dark: #3638b0;
+  --teal: #12a594;
+  --slate: #6b7280;
+  --line: #e4e6ea;
+  --danger: #e5484d;
+
+  --font-display: 'Space Grotesk', 'Inter', sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background: var(--paper);
+  color: var(--ink);
+}
+
+a {
+  color: inherit;
+}
